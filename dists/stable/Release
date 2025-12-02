@@ -1,0 +1,8 @@
+Origin: luk-os-kernel-repo
+Label: luk-os-kernel-repo
+Suite: stable
+Codename: stable
+Date: Tue, 02 Dec 2025 18:31:23 GMT
+Architectures: amd64
+Components: main
+Description: Initial Release
